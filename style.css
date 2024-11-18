@@ -1,0 +1,126 @@
+
+#Principal{
+    font-family: "inter";
+    background-color: #303030;
+    color: #FFFFFF;
+    width: auto;
+    height: 475px;
+    
+} 
+#Titulo-principal{
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 72px;
+    font-weight: 600px;
+    padding-top: 206px;
+    padding-left: 62px;
+}
+
+#Subtitulo{
+    font-weight: 500;
+    font-size: 20px;
+    margin-top: 20px;
+    text-align: left;
+    padding-left: 62px;
+
+}
+
+
+#Apresentação{
+    font-family: "inter";
+    background-color: #cfcdcd;
+    display: grid;
+    grid-auto-flow: column;
+    background-color: #F9F9F9;
+    width: auto;
+    height: 200px;}
+
+.Dados{
+    
+    padding-top: 75px;
+    margin-left: 30%;
+    }
+
+#Historia{
+    display: grid;
+    grid-auto-flow: column;
+    height: 600px;
+    width: auto;
+    padding-top: 82px;
+    padding-bottom: 92px;
+}
+#historia-texto{
+    margin: auto;
+}
+#historia-titulo{
+    font-size: 40px;
+    font-family: 'inter';
+    font-weight: 500;
+}
+#historia-descriçao{
+    margin-top: 30px;
+    font-size: 24px;
+    font-family: 'inter';
+    font-weight: 300;
+}
+#foto{
+    margin: auto;
+    padding-bottom: 92px;
+}
+
+
+#Cadastro{
+    text-align: center;
+    background-color: #303030;
+}
+#Cadastro-texto{
+    color: #FFFFFF;
+    text-align: center;
+    font-family: "inter";
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 48px;
+    padding-top: 87px;
+    padding-bottom: 48px;
+}
+#cadastro-nome{
+    font-family: 'raleway';
+    font-weight: 700;
+    font-size: 24px;
+    padding-left: 30px;
+    margin-bottom: 62px;
+    width: 508px;
+    height: 72px;
+    border-radius: 10px;
+    border: 0px;
+}
+#cadastro-email{
+    font-family: 'raleway';
+    font-weight: 700;
+    font-size: 24px;
+    padding-left: 30px;
+    margin-bottom: 62px;
+    width: 508px;
+    height: 72px;
+    border-radius: 10px;
+    border: 0px;
+}
+button{
+    width: 286px;
+    height: 74px;
+    border-radius: 10px;
+    font-size: 30px;
+    font-family: 'raleway';
+    font-weight: 700;
+    color: #FFFFFF;
+    background-color: #C07212;
+    border: 0px;
+    margin-bottom: 87px;
+    line-height: 30px;
+    cursor: pointer;
+}
+* {
+    margin: 0%;
+}
+
+
